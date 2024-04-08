@@ -1,0 +1,22 @@
+/* Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 65px;
+    background-color: #333;
+    color: white;
+    position: fixed;
+    width: 90%;
+  }
+.subhead{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    font-weight: 500;
+}
+.tabs{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
